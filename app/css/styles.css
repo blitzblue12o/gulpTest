@@ -2,4 +2,7 @@
   width: 71.42857%; }
 
 body {
-  background: red; }
+  background: blue; }
+
+h1, p {
+  color: white; }
